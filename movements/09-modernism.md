@@ -22,11 +22,11 @@
 
 ## 中心人物
 
-- [横光利一](../authors/yokomitsu-riichi.md)（1898-1947）
-- [川端康成](../authors/kawabata-yasunari.md)（1899-1972）
+- [横光利一](../authors/06-yokomitsu-riichi.md)（1898-1947）
+- [川端康成](../authors/07-kawabata-yasunari.md)（1899-1972）
 - 稲垣足穂
 
 ## 関連
 
-- [横光利一の作品ノート](../authors/yokomitsu-riichi.md)
-- [川端康成の作品ノート](../authors/kawabata-yasunari.md)
+- [横光利一の作品ノート](../authors/06-yokomitsu-riichi.md)
+- [川端康成の作品ノート](../authors/07-kawabata-yasunari.md)

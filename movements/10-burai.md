@@ -4,7 +4,7 @@
 
 ## 中心人物
 
-- [太宰治](../authors/dazai-osamu.md)
+- [太宰治](../authors/08-dazai-osamu.md)
 
 ## 代表作
 

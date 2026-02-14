@@ -29,7 +29,7 @@ nihon-bungaku/
 │   ├── 08-proletarian.md    # プロレタリア文学
 │   ├── 09-modernism.md      # モダニズム文学
 │   └── 10-burai.md          # 無頼派
-├── authors/             # 作家別
+├── authors/             # 作家別（生年順）
 └── works/               # 作品ノート
 ```
 

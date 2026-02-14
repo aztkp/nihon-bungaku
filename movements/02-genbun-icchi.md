@@ -16,7 +16,7 @@
 
 ## 中心人物
 
-- [二葉亭四迷](../authors/futabatei-shimei.md)（1864-1909）
+- [二葉亭四迷](../authors/02-futabatei-shimei.md)（1864-1909）
 
 ## 代表作
 

@@ -27,7 +27,7 @@
 ドスケベ軍団。美に耽溺するスタイル。
 
 - 永井荷風
-- [谷崎潤一郎](../authors/tanizaki-junichiro.md)
+- [谷崎潤一郎](../authors/04-tanizaki-junichiro.md)
 
 ### 新思潮派
 
@@ -35,7 +35,7 @@
 
 - 芥川龍之介
 - 菊池寛
-- [川端康成](../authors/kawabata-yasunari.md)
+- [川端康成](../authors/07-kawabata-yasunari.md)
 
 ## 関東大震災（1923）
 
@@ -49,8 +49,8 @@
 
 現象学、相対性理論とか色々出てきた。
 
-- [横光利一](../authors/yokomitsu-riichi.md)
-- [川端康成](../authors/kawabata-yasunari.md)
+- [横光利一](../authors/06-yokomitsu-riichi.md)
+- [川端康成](../authors/07-kawabata-yasunari.md)
 
 ## 関連
 

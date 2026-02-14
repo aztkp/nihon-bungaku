@@ -13,14 +13,14 @@
 
 ### 新感覚派
 
-- [横光利一](../authors/yokomitsu-riichi.md)『機械』（1930）
-- [横光利一](../authors/yokomitsu-riichi.md)『純粋小説論』（1935）
+- [横光利一](../authors/06-yokomitsu-riichi.md)『機械』（1930）
+- [横光利一](../authors/06-yokomitsu-riichi.md)『純粋小説論』（1935）
 
 ## 無頼派
 
 語り手とか書き手をどんどん書いていく。
 
-- [太宰治](../authors/dazai-osamu.md)
+- [太宰治](../authors/08-dazai-osamu.md)
 
 ## 関連
 

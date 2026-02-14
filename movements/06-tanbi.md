@@ -6,7 +6,7 @@
 ## 中心人物
 
 - 永井荷風
-- [谷崎潤一郎](../authors/tanizaki-junichiro.md)
+- [谷崎潤一郎](../authors/04-tanizaki-junichiro.md)
 
 ## 代表作
 

@@ -9,11 +9,11 @@
 戦争に負けて文化的な近代化が進められた。藝大ができるのもここ。
 設計図を書いたり地形を書くためには遠近法などの写実的な知識が必要になってくる。
 
-- [坪内逍遥](../authors/tsubouchi-shoyo.md)『小説神髄』（1885）
+- [坪内逍遥](../authors/01-tsubouchi-shoyo.md)『小説神髄』（1885）
 
 ### 言文一致運動
 
-- [二葉亭四迷](../authors/futabatei-shimei.md)『浮雲』（1887）
+- [二葉亭四迷](../authors/02-futabatei-shimei.md)『浮雲』（1887）
 
 ### 擬古典主義
 

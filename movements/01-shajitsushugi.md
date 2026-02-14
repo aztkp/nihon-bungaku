@@ -5,7 +5,7 @@
 
 ## 中心人物
 
-- [坪内逍遥](../authors/tsubouchi-shoyo.md)（1859-1935）
+- [坪内逍遥](../authors/01-tsubouchi-shoyo.md)（1859-1935）
 
 ## 代表作
 
