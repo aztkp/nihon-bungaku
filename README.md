@@ -13,10 +13,11 @@
 ```
 nihon-bungaku/
 ├── timeline.md          # 年表・時系列
-├── eras/                # 時代別
-│   ├── meiji.md         # 明治
-│   ├── taisho.md        # 大正
-│   └── showa-prewar.md  # 昭和戦前
+├── eras/                # 時代別（時代順）
+│   ├── 01-meiji.md      # 明治
+│   ├── 02-taisho.md     # 大正
+│   ├── 03-showa-prewar.md # 昭和戦前
+│   └── 04-postwar.md    # 戦後
 ├── movements/           # 文学運動・派閥別（時代順）
 │   ├── 01-shajitsushugi.md  # 写実主義
 │   ├── 02-genbun-icchi.md   # 言文一致運動
